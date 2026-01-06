@@ -1,4 +1,4 @@
-# Portfolio QA – Reyes Díaz  
+# Portfolio QA – Maria Laura Rodriguez  
 **Portafolio web personal de proyectos de QA**  
 🔗 [Ver Web Portfolio QA](file:///C:/Users/Laura/Documents/GitHub/portfolioqa/index.html)
 
