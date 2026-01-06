@@ -1,6 +1,6 @@
 # Portfolio QA – Reyes Díaz  
 **Portafolio web personal de proyectos de QA**  
-🔗 [Ver Web Portfolio QA](https://bootcamp-qa.github.io/portfolioqa/)
+🔗 [Ver Web Portfolio QA](file:///C:/Users/Laura/Documents/GitHub/portfolioqa/index.html)
 
 ---
 
