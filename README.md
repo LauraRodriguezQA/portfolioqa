@@ -1,6 +1,6 @@
 # Portfolio QA – Maria Laura Rodriguez  
 **Portafolio web personal de proyectos de QA**  
-🔗 [Ver Web Portfolio QA]((https://laurarodriguezqa.github.io/bootcamp-qa/))
+🔗 [Ver Web Portfolio QA]([(https://laurarodriguezqa.github.io/portfolioqa/)]
 
 ---
 
